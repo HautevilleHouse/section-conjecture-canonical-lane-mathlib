@@ -1,0 +1,7 @@
+-- This module is the root of the SectionConjectureCanonicalLaneLean Lean proof package.
+import SectionConjectureCanonicalLaneLean.Basic
+import SectionConjectureCanonicalLaneLean.SourcePackage
+import SectionConjectureCanonicalLaneLean.SourceDependencies
+import SectionConjectureCanonicalLaneLean.Formalization
+import SectionConjectureCanonicalLaneLean.ReviewerBridge
+import SectionConjectureCanonicalLaneLean.TheoremStatement
